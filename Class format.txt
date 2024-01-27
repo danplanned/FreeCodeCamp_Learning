@@ -1,0 +1,39 @@
+(00:00:00) Intro 
+(00:00:55) Chapter 1 - Getting Started
+(00:20:13) Chapter 2 - Head Element
+(00:29:02) Chapter 3 - Text Basics 
+(00:49:45) Chapter 4 - List Types
+(00:59:55) Chapter 5 - Add Links 
+(01:30:38) Chapter 6 - Add Images
+(02:00:58) Chapter 7 - Semantic Tags 
+(02:24:53) Chapter 8 - Create Tables 
+(02:40:42) Chapter 9 - Forms & Inputs 
+(03:25:16) Chapter 10 - HTML Project
+
+
+Day one : 50:00
+Day two : 1:30:30
+Day three: 2:40:43
+Day four: 3:30:00
+
+
+
+UPDATE:
+
+Intro done
+Chap 1 done
+Chap 2 done
+Chap 3 done
+Day 1 done
+
+Chap 4 done
+Chap 5 done
+Day 2
+
+Chap 6
+Chap 7
+Chap 8
+Day 3
+
+Chap 9
+Chap 10
